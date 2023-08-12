@@ -9,7 +9,7 @@ HTTPメソッドのGET/POST/PATCH/DELETEのリクエストを扱えるController
 ### クエリ文字列を介して送付したid、名前、生年月日を取得するGETリクエスト
 <img width="1039" alt="スクリーンショット 2023-08-13 7 55 20" src="https://github.com/k-prog55/raisetech-chapter-7-work/assets/138343132/821bd74c-feba-41a3-8011-47d439f1b58c">  
 
-### クエリ文字列を介して送付したi複数のid、名前、生年月日を取得するGETリクエスト
+### クエリ文字列を介して送付した複数のid、名前、生年月日を取得するGETリクエスト
 <img width="1030" alt="スクリーンショット 2023-08-13 8 01 29" src="https://github.com/k-prog55/raisetech-chapter-7-work/assets/138343132/1c103673-52e2-428c-8ea1-114704923620">
 
 ### クエリ文字列を介して送付した名前を取得するGETリクエスト
